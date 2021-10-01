@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BroilerCompiler
-- 🌱 I’m writing in C/CPP, Python
-- I'm interested in all kinds of projects. Always open to learn :)
+- 🌱 writing in C/CPP, Python
+- 👾 running on Linux
+- I'm interested in all kinds of projects. Feel free to contact me :)
 
 <!---
 BroilerCompiler/BroilerCompiler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
