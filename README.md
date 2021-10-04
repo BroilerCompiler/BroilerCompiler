@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BroilerCompiler
-- 👀 I’m interested in Linux, hardware oriented programming, security topics
+- 👀 I’m interested in Linux, hardware oriented programming, security topics, home automation
 - 🌱 I’m currently learning C/CPP
 - I'm writing in Python
 - 💞️ I’m looking to collaborate on all projects regarding above topics
