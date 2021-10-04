@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BroilerCompiler
 - 🌱 writing in C/CPP, Python
-- 👾 running on Linux
 - I'm interested in all kinds of projects. Feel free to contact me :)
 
 <!---
